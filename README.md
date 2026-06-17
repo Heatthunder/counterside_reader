@@ -1,8 +1,8 @@
-# Counter:Side Story Reader
-This is a reader for the game Counter:Side. It runs in the web-browser, served on your local machine. Supports Windows, Linux, Mac, and Android.  
-카운터사이드 리더기입니다. 로컬 환경의 웹 브라우저에서 구동되며, Windows, Linux, Mac 및 Android를 지원합니다.  
-カウンターサイドのリーダー（閲覧機）です。ローカルマシンのウェブブラウザ上で動作します。Windows, Linux, Mac, Android に対応しています。  
-這是《未來戰》的閱覽器。於本地端瀏覽器運行，支援 Windows、Linux、Mac 及 Android 系統。 
+# CounterSide Offline Story Reader
+This is a reader for the game Counter:Side. It runs in the web-browser, served on your local machine. Supports Windows, Linux, Mac, and Android. [Final Update: May 22, 2026]  
+카운터사이드 리더기입니다. 로컬 환경의 웹 브라우저에서 구동되며, Windows, Linux, Mac 및 Android를 지원합니다. [최종 업데이트: 2026년 5월 22일]  
+カウンターサイドのリーダー（閲覧機）です。ローカルマシンのウェブブラウザ上で動作します。Windows, Linux, Mac, Android に対応しています。[最終更新: 2026年5月22日]  
+這是《未來戰》的閱覽器。於本地端瀏覽器運行，支援 Windows、Linux、Mac 及 Android 系統。[最後更新：2026年5月22日]  
 
 [Roadmap](./notes/ROADMAP.md) | [ロードマップ](./notes/ROADMAP.JP.md) | [로드맵](./notes/ROADMAP.KR.md) | [項目路線圖](./notes/ROADMAP.TW.md)
 
